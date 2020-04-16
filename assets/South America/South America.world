@@ -1,0 +1,50 @@
+{
+    "maps": [
+        {
+            "fileName": "South America-1.tmx",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "South America-2.tmx",
+            "x": 256,
+            "y": 256
+        },
+        {
+            "fileName": "South America-3.tmx",
+            "x": 512,
+            "y": 832
+        },
+        {
+            "fileName": "South America-4.tmx",
+            "x": 768,
+            "y": 832
+        },
+        {
+            "fileName": "South America-5.tmx",
+            "x": 1024,
+            "y": 1664
+        },
+        {
+            "fileName": "South America-6.tmx",
+            "x": 1280,
+            "y": 2112
+        },
+        {
+            "fileName": "South America-7.tmx",
+            "x": 1536,
+            "y": 1344
+        },
+        {
+            "fileName": "South America-8.tmx",
+            "x": 1792,
+            "y": 512
+        },
+        {
+            "fileName": "South America-9.tmx",
+            "x": 2048,
+            "y": 512
+        }
+    ],
+    "type": "world"
+}
